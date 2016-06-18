@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\bin\Debug\TV_Remote.exe.config
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\bin\Debug\TV_Remote.exe
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\bin\Debug\TV_Remote.pdb
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\obj\Debug\TV_Remote.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\obj\Debug\TV_Remote.Form1.resources
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\obj\Debug\TV_Remote.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\obj\Debug\TV_Remote.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\obj\Debug\TV_Remote.exe
+d:\documents\visual studio 2015\Projects\TV_Remote\TV_Remote\obj\Debug\TV_Remote.pdb
